@@ -6,4 +6,6 @@ On devices with a smaller screen, a list of items is displayed, when you click o
 <p align="center">
   <img src="https://github.com/natalliarad/EpamLaboratory10/blob/master/master_detail_1.jpg" width="350"/>
   <img src="https://github.com/natalliarad/EpamLaboratory10/blob/master/master_detail_2.jpg" width="350"/>
+  <img src="https://github.com/natalliarad/EpamLaboratory10/blob/master/master_detail_3.jpg" width="350"/>
+  <img src="https://github.com/natalliarad/EpamLaboratory10/blob/master/master_detail_4.jpg" width="350"/>
 </p>
